@@ -187,4 +187,3 @@ impl Layer for Conv2D {
 
 ---
 
-This **README.md** provides a **clear and structured overview** of the project, making it easy for your teacher or team to understand the **CNN library in Rust**. 🚀
